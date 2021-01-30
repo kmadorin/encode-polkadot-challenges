@@ -1,0 +1,7 @@
+{
+"Address": "MultiAddress",
+"LookupSource": "MultiAddress",
+  "Balance": "u64",
+  "Zombie": "[u8; u16]",
+  "ZombieCreated": "(AccountId, u32, Zombie)"
+}
